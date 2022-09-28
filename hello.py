@@ -1,3 +1,1 @@
-print("d")
-print("cd")
-print("Dddds")
+print("hello world!")
